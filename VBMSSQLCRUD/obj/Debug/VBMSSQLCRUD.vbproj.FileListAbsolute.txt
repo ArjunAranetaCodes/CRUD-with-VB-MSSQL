@@ -1,0 +1,10 @@
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\VBMSSQLCRUD\VBMSSQLCRUD\bin\Debug\VBMSSQLCRUD.exe.config
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\VBMSSQLCRUD\VBMSSQLCRUD\bin\Debug\VBMSSQLCRUD.exe
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\VBMSSQLCRUD\VBMSSQLCRUD\bin\Debug\VBMSSQLCRUD.pdb
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\VBMSSQLCRUD\VBMSSQLCRUD\bin\Debug\VBMSSQLCRUD.xml
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\VBMSSQLCRUD\VBMSSQLCRUD\obj\Debug\VBMSSQLCRUD.Form1.resources
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\VBMSSQLCRUD\VBMSSQLCRUD\obj\Debug\VBMSSQLCRUD.Resources.resources
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\VBMSSQLCRUD\VBMSSQLCRUD\obj\Debug\VBMSSQLCRUD.vbproj.GenerateResource.Cache
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\VBMSSQLCRUD\VBMSSQLCRUD\obj\Debug\VBMSSQLCRUD.exe
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\VBMSSQLCRUD\VBMSSQLCRUD\obj\Debug\VBMSSQLCRUD.xml
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\VBMSSQLCRUD\VBMSSQLCRUD\obj\Debug\VBMSSQLCRUD.pdb
